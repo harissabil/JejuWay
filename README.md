@@ -9,7 +9,7 @@ Discover Jeju the way it’s meant to be experienced—effortlessly, personally,
 
 JejuWay is an AI-powered travel app that simplifies your journey to Jeju Island by creating personalized itineraries tailored to your interests and needs. With real-time recommendations, weather forecasts, and interactive maps, JejuWay ensures that your trip is not only enjoyable but also stress-free. Say goodbye to the hassles of planning and enjoy Jeju to the fullest with JejuWay.
 
-#### ✨ Features
+## ✨ Features
 
 - **Itinerary Builder**: Effortlessly create a tailored plan for your Jeju trip with JejuWay’s powerful itinerary builder. Just input your preferences, and the app does the rest.
 
@@ -20,8 +20,6 @@ JejuWay is an AI-powered travel app that simplifies your journey to Jeju Island 
 - **Smart Weather Forecast**: Stay prepared with accurate, AI-driven weather-based recommendations, from activity suggestions to outfit advice, ensuring a perfect day, rain or shine.
 
 ## 📸 Screenshots
-
-## ✨ Features
 
 <table>
   <tbody>
