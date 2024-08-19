@@ -41,7 +41,7 @@ JejuWay is an AI-powered travel app that simplifies your journey to Jeju Island 
     </tr>
     <tr>
       <td align="center">
-        <img src="assets/screenshot/itinerary_builder.?raw=true" width="100%" class="responsive-img"/>
+        <img src="assets/screenshot/itinerary_builder.jpeg?raw=true" width="100%" class="responsive-img"/>
       </td>
       <td align="center">
         <img src="assets/screenshot/personalized_itinerary.jpeg?raw=true" width="100%" class="responsive-img"/>
