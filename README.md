@@ -72,7 +72,13 @@ also stress-free. Say goodbye to the hassles of planning and enjoy Jeju to the f
 
 ## 🚀 Installation
 
-To install JejuWay
+To install JejuWay, there are two options available:
+
+### Option 1: Download from Google Drive
+
+Visit the [Drive link](https://drive.google.com/drive/folders/1wZJvTz-sLOASSeqHldlH-6jI9yik8dsY?usp=sharing).
+
+### Option 2: Build from Source
 
 1. Clone or download the project and open it in Android Studio.
 2. Create a `local.properties` file in the project root folder if it doesn't exist.
