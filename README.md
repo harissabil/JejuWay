@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/harissabil/JejuWay/blob/master/android/app/src/main/ic_launcher-playstore.png" width="150" alt="Centered Image">
-  <h1>Fishlog: Angler's Logbook</h1>
+  <h1>JejuWay</h1>
 </div>
 
 Discover Jeju the way it’s meant to be experienced—effortlessly, personally, and full of unforgettable moments. JejuWay is your ultimate travel companion, turning your trip to Jeju Island into a seamless adventure.
@@ -17,7 +17,7 @@ JejuWay is an AI-powered travel app that simplifies your journey to Jeju Island 
 
 - **Interactive Maps & Smooth Itinerary Management**: Navigate your journey with ease using JejuWay’s interactive map, while seamlessly managing your schedule in real time. Adjust plans on the go and stay organized effortlessly.
 
-- **Weather Forecast**: Stay prepared with accurate, AI-driven weather-based recommendations, from activity suggestions to outfit advice, ensuring a perfect day, rain or shine.
+- **Smart Weather Forecast**: Stay prepared with accurate, AI-driven weather-based recommendations, from activity suggestions to outfit advice, ensuring a perfect day, rain or shine.
 
 ## 📸 Screenshots
 
@@ -33,7 +33,7 @@ JejuWay is an AI-powered travel app that simplifies your journey to Jeju Island 
         Personalized Itinerary
       </td>
       <td align="center" width="20%">
-        Weather Forecast
+        Smart Weather Forecast
       </td>
       <td align="center" width="20%">
         Smooth Itinerary Management
