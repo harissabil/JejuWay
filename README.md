@@ -67,7 +67,7 @@ also stress-free. Say goodbye to the hassles of planning and enjoy Jeju to the f
 ## 🏗️ Architecture Plan
 
 <div align="center">
-  <img src="assets/architecture/architecture-plan.png" alt="Architecture Plan" width="600">
+  <img src="assets/architecture/architecture_plan.png" alt="Architecture Plan" width="600">
 </div>
 
 ## 🚀 Installation
